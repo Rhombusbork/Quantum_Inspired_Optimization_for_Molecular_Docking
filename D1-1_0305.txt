@@ -1,0 +1,3 @@
+# made code->pseudocode->task/question list so that I can really work on my project while following the guidelines.
+
+first, make the code needed for steps 1.1.1-1.1.3, then, make the pseudocode while deleting the original code. then, make questions/tasks as if one should come up with the pseudocode as the solution for those questions/tasks. I only want those question/tasks, so that I could really work on the project myself while following a clear guideline.
