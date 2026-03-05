@@ -4,7 +4,8 @@ git branch -m main
 git remote add origin https://github.com/Rhombusbork/Quantum_Inspired_Optimization_for_Molecular_Docking
 git add -A
 git commit -m "Initial commit"
-git push origin
+git push
+ (git push --set-upstream origin main)
 
 # made venv
 python3 -m venv .venv
