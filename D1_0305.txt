@@ -1,0 +1,43 @@
+# Activated git
+git init
+git branch -m main
+git remote add origin https://github.com/Rhombusbork/Quantum_Inspired_Optimization_for_Molecular_Docking
+git add -A
+git commit -m "Initial commit"
+git push origin
+
+# made venv
+python3 -m venv .venv
+(auto-activated)
+
+# Made gitignore
+(Make smaller if you can)
+# --- Python Patterns ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# --- VS Code Patterns ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# --- Linux/Ubuntu Patterns ---
+.DS_Store
+.directory
+*.swp
+*~
+
